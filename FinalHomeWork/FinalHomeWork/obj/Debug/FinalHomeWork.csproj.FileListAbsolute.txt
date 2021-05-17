@@ -1,0 +1,28 @@
+C:\Users\UPDATE\Documents\Visual Studio 2017\Projects\FinalHomeWork\FinalHomeWork\bin\Debug\ProjectDatabase.mdf
+C:\Users\UPDATE\Documents\Visual Studio 2017\Projects\FinalHomeWork\FinalHomeWork\bin\Debug\ProjectDatabase_log.ldf
+C:\Users\UPDATE\Documents\Visual Studio 2017\Projects\FinalHomeWork\FinalHomeWork\bin\Debug\FinalHomeWork.exe.config
+C:\Users\UPDATE\Documents\Visual Studio 2017\Projects\FinalHomeWork\FinalHomeWork\bin\Debug\FinalHomeWork.exe
+C:\Users\UPDATE\Documents\Visual Studio 2017\Projects\FinalHomeWork\FinalHomeWork\bin\Debug\FinalHomeWork.pdb
+C:\Users\UPDATE\Documents\Visual Studio 2017\Projects\FinalHomeWork\FinalHomeWork\obj\Debug\FinalHomeWork.csprojAssemblyReference.cache
+C:\Users\UPDATE\Documents\Visual Studio 2017\Projects\FinalHomeWork\FinalHomeWork\obj\Debug\FinalHomeWork.Form1.resources
+C:\Users\UPDATE\Documents\Visual Studio 2017\Projects\FinalHomeWork\FinalHomeWork\obj\Debug\FinalHomeWork.Properties.Resources.resources
+C:\Users\UPDATE\Documents\Visual Studio 2017\Projects\FinalHomeWork\FinalHomeWork\obj\Debug\FinalHomeWork.csproj.GenerateResource.cache
+C:\Users\UPDATE\Documents\Visual Studio 2017\Projects\FinalHomeWork\FinalHomeWork\obj\Debug\FinalHomeWork.csproj.CoreCompileInputs.cache
+C:\Users\UPDATE\Documents\Visual Studio 2017\Projects\FinalHomeWork\FinalHomeWork\obj\Debug\FinalHomeWork.exe
+C:\Users\UPDATE\Documents\Visual Studio 2017\Projects\FinalHomeWork\FinalHomeWork\obj\Debug\FinalHomeWork.pdb
+C:\Users\UPDATE\Documents\Visual Studio 2017\Projects\FinalHomeWork\FinalHomeWork\obj\Debug\FinalHomeWork.Login.resources
+C:\Users\UPDATE\Documents\Visual Studio 2017\Projects\FinalHomeWork\FinalHomeWork\obj\Debug\FinalHomeWork.Main_Page.resources
+C:\Users\UPDATE\Documents\Visual Studio 2017\Projects\Medcine Reseption\FinalHomeWork\bin\Debug\ProjectDatabase.mdf
+C:\Users\UPDATE\Documents\Visual Studio 2017\Projects\Medcine Reseption\FinalHomeWork\bin\Debug\ProjectDatabase_log.ldf
+C:\Users\UPDATE\Documents\Visual Studio 2017\Projects\Medcine Reseption\FinalHomeWork\bin\Debug\FinalHomeWork.exe.config
+C:\Users\UPDATE\Documents\Visual Studio 2017\Projects\Medcine Reseption\FinalHomeWork\bin\Debug\FinalHomeWork.exe
+C:\Users\UPDATE\Documents\Visual Studio 2017\Projects\Medcine Reseption\FinalHomeWork\bin\Debug\FinalHomeWork.pdb
+C:\Users\UPDATE\Documents\Visual Studio 2017\Projects\Medcine Reseption\FinalHomeWork\obj\Debug\FinalHomeWork.csprojAssemblyReference.cache
+C:\Users\UPDATE\Documents\Visual Studio 2017\Projects\Medcine Reseption\FinalHomeWork\obj\Debug\FinalHomeWork.Form1.resources
+C:\Users\UPDATE\Documents\Visual Studio 2017\Projects\Medcine Reseption\FinalHomeWork\obj\Debug\FinalHomeWork.Login.resources
+C:\Users\UPDATE\Documents\Visual Studio 2017\Projects\Medcine Reseption\FinalHomeWork\obj\Debug\FinalHomeWork.Main_Page.resources
+C:\Users\UPDATE\Documents\Visual Studio 2017\Projects\Medcine Reseption\FinalHomeWork\obj\Debug\FinalHomeWork.Properties.Resources.resources
+C:\Users\UPDATE\Documents\Visual Studio 2017\Projects\Medcine Reseption\FinalHomeWork\obj\Debug\FinalHomeWork.csproj.GenerateResource.cache
+C:\Users\UPDATE\Documents\Visual Studio 2017\Projects\Medcine Reseption\FinalHomeWork\obj\Debug\FinalHomeWork.csproj.CoreCompileInputs.cache
+C:\Users\UPDATE\Documents\Visual Studio 2017\Projects\Medcine Reseption\FinalHomeWork\obj\Debug\FinalHomeWork.exe
+C:\Users\UPDATE\Documents\Visual Studio 2017\Projects\Medcine Reseption\FinalHomeWork\obj\Debug\FinalHomeWork.pdb
